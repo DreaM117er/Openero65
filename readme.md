@@ -17,7 +17,20 @@ OpeNero65是我設計的第一把ANSI配列鍵盤，使用市面上都能輕易�
 
 ## 材料準備
 
+|材料名稱|數量|備註|
+|---|---|---|
+|OpeNero65電路板（PCB）|1片|-|
+|堆疊外殼（Stacking Case）|1組|10片堆疊材料|
+|微控制器（MCU）|1片|RP2040Supermini、RP2040Zero|
+|公母圓排針|9pin、5pin|選配（Optional）|
+|熱插拔座（Hotswap Cable）|72個|MX規格|
+|M2x8mm 扁頭螺絲（Screws）|30根|-|
+|M2x4mm 扁頭螺絲（Screws）|8根|-|
+|M2x3mm熱壓螺母（insert）|14個|-|
+|M2x18mm 雙通銅柱（Spacer）|2根|-|
+|M2x12mm 雙通銅柱（Spacer）|10根|-|
 
+材料準備好之後，點我前往[組裝說明](guide.md)。
 
 ## 參考及使用資料
 - KiCAD version 7.05。

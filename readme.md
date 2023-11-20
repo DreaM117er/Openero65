@@ -35,7 +35,7 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 |`PCB`衛星軸（Stablizers）|1組|-|
 |衛星軸用潤滑酯|-|`Permatex 22058`/`81150`或`XHT-BDZ`|
 |防滑腳貼（Antiskid feets）|8個|高度隨個人而定|
-|外徑`4mm` 內徑`2mm` 橡膠圈（Outer `ø4mm`, inner `ø2mm` O-rings）|15個|選配（`Optional`）|
+|外徑`4mm` 內徑`2mm` 橡膠圈（Outer `ø4mm`, inner `ø2mm` O-rings）|23個|選配（`Optional`）|
 |M2 防滑墊片（M2 washers）|10個|選配（`Optional`）|
 
 ### B、使用工具：
@@ -59,7 +59,7 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 >
 > 請準備個人喜歡的MX鍵軸65-66顆，以及調整衛星軸鋼絲的前置動作。
 > 
-> Please prepare 65-66 packs personal MX switches and adjustable stablizer wires before building keyboard.
+> Please prepare 65-66 packs personal MX switches and adjusted stablizer wires before building keyboard.
 
 材料及工具準備好之後，點我前往[組裝說明](guide.md)。
 

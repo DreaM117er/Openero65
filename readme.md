@@ -25,7 +25,7 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 |堆疊外殼（Stacking Case）|1組|10片堆疊材料|
 |微控制器（`MCU`）|1片|`RP2040Supermini`、`P2040Zero`|
 |公母圓排針|`9pin`、`5pin`|選配（`Optional`）|
-|熱插拔座（Hotswap Cable）|72個|`MX`規格|
+|熱插拔座（Hotswap Sockets）|72個|`MX`規格（for MX switches）|
 |`M2x8mm` 扁頭螺絲（Screws）|30根|-|
 |`M2x3mm` 扁頭螺絲（Screws）|18根|-|
 |`M2x3mm` 熱壓螺母（insert）|14個|-|

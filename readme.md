@@ -34,7 +34,7 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 |`M2x18mm` 雙通銅柱（Spacer）|2根|-|
 |`M2x12mm` 雙通銅柱（Spacer）|10根|-|
 |`M2x5mm` 雙通銅柱（Spacer）|5根|-|
-|`PCB`衛星軸（Stablizers）|1組|-|
+|`PCB`衛星軸（Stablizers）|1組|`2u`、`6.25u`/`7u`|
 |衛星軸用潤滑酯|-|`Permatex 22058`/`81150`或`XHT-BDZ`|
 |防滑腳貼（Antiskid feets）|8個|高度隨個人而定|
 |外徑`4mm` 內徑`2mm` 橡膠圈（Outer `ø4mm`, inner `ø2mm` O-rings）|23個|選配（`Optional`）|

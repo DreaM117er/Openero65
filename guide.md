@@ -8,7 +8,7 @@
 
 
 
-## 三、排針、測試電路板（M/F Pin header and Testing PCB）
+## 三、排針、測試電路板（M/F Pin header and PCB Testing）
 
 
 

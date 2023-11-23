@@ -53,9 +53,15 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 
 > **Warning**
 >
-> 使用電烙鐵時注意用電、用火安全，環境通風
+> 使用電烙鐵時注意用電、用火安全，環境通風。
 > 
 > Be carefull on fire and electricity safety when soldering in environmental ventilation.
+
+> **Warning**
+>
+> 定製外殼前務必瞭解自身需求的鍵盤佈局（例如6.25u、7.00u Spacebar；WK、WKL等）。
+> 
+> Please understood which keyboard layout you need before making/ordering case. (ex: 6.25u, 7.00u spacebar; WK, WKL...)
 
 > **Warning**
 >

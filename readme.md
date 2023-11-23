@@ -67,7 +67,7 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 >
 > 請準備個人喜歡的MX鍵軸65-66顆，以及調整衛星軸鋼絲的前置動作。
 > 
-> Please prepare 65-66 packs personal MX switches and adjusted stablizer wires before building keyboard.
+> Please prepare 65-66 personal MX switches and adjusted stablizer wires before building keyboard.
 
 材料及工具準備好之後，點我前往[組裝說明](guide.md)。
 

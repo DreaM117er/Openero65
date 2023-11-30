@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '1_125wkl.step',
-/* time_stamp */ '2023-11-23T14:57:26+08:00',
+/* name */ '1125.step',
+/* time_stamp */ '2023-12-01T00:49:10+08:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',

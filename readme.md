@@ -28,11 +28,12 @@ OpeNero65是我設計的第一把`ANSI配列`鍵盤，使用市面上都能輕�
 |公母圓排針|`9pin`、`5pin`|選配（`Optional`）|
 |熱插拔座（Hotswap Sockets）|72個|`MX`規格（for MX switches）|
 |`M2x5mm` 扁頭螺絲（Screws）|30根|-|
-|`M2x3mm` 扁頭螺絲（Screws）|10根|-|
-|`M2x3mm` 熱壓螺母（insert）|8個|-|
+|`M2x4mm` 扁頭螺絲（Screws）|8根|-|
+|`M2x3mm` 扁頭螺絲（Screws）|12根|-|
 |`M2x18mm` 雙通銅柱（Spacer）|2根|-|
 |`M2x12mm` 雙通銅柱（Spacer）|10根|-|
 |`M2x5mm` 雙通銅柱（Spacer）|11根|-|
+|`M2x3mm` 雙通銅柱（Spacer）|8根|-|
 |`PCB`衛星軸（Stablizers）|1組|`2u`、`6.25u`/`7u`|
 |衛星軸用潤滑酯|-|`Permatex 22058`/`81150`或`XHT-BDZ`|
 |防滑腳貼（Antiskid feets）|8個|高度隨個人而定|

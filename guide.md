@@ -174,25 +174,25 @@
 
 ![](pic/040.jpg)
 
-- 接著將第六層底板拿出來，使用M2x5mm螺絲，在照片上的位置安裝M2x5mm銅柱
-- Next you need to use M2x5mm screws, install M2x5mm spacers like the picture below.
+- 接著將第六層底板拿出來，使用`M2x5mm`螺絲，在照片上的位置安裝`M2x5mm`銅柱
+- Next you need to use `M2x5mm` screws, install `M2x5mm` spacers like the picture below.
 
 ![](pic/042.jpg)
 
-- 再來將第六層堆疊上去，用M2x5mm螺絲將外殼固定好。
-- Then stacking the 6th plate, and use M2x5mm screws to lock the case.
+- 再來將第六層堆疊上去，用`M2x5mm`螺絲將外殼固定好。
+- Then stacking the 6th plate, and use `M2x5mm` screws to lock the case.
 
 ![](pic/043.jpg)
 ![](pic/044.jpg)
 ![](pic/045.jpg)
 
 - 接著將第七、八層、M2x5mm螺絲、M2x5mm銅柱拿出來，依照照片上的位置安裝。
-- Then you need to install M2x5mm screws and spacers on the 7th/8th plate, like picture.
+- Then you need to install `M2x5mm` screws and spacers on the 7th/8th plate, like picture.
 
 ![](pic/046.jpg)
 
 - 最後將左右邊的腳放在鍵盤上，用M2x5mm、M2x3mm螺絲固定好。
-- Last step, putting the 7th/8th plate on left and right side, then use M2x5mm, M2x3mm screws screw the case.
+- Last step, putting the 7th/8th plate on left and right side, then use `M2x5mm`, `M2x3mm` screws screw the case.
 
 ![](pic/047.jpg)
 ![](pic/048.jpg)

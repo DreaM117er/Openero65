@@ -88,7 +88,6 @@
 
 ![](pic/021.jpg)
 ![](pic/022.jpg)
-![](pic/022.jpg)
 ![](pic/023.jpg)
 ![](pic/024.jpg)
 ![](pic/025.jpg)

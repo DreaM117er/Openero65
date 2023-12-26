@@ -212,3 +212,9 @@
 ![](pic/054.jpg)
 ![](pic/055.jpg)
 ![](pic/rp0.jpg)
+
+> **Note**
+>
+> 最後就是將鍵盤接到電腦上測試按鍵，確定沒有問題後就可以開始使用了。
+>
+> The last thing you need to do is to connect the keyboard to your computer and test the keys to make sure there is no problem and then you can start using it.

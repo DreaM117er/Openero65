@@ -43,7 +43,7 @@
 ![](pic/011.jpg)
 
 - 熱插拔座、二極體、MCU安裝好之後會是這個樣子。
-- IF you finished installing hotswap sockets, diodes and MCU, check picture below, it finally looks like the picture below.
+- IF you finished installing hotswap sockets, diodes and MCU, check picture, it finally looks like the picture below.
 
 ![](pic/012.jpg)
 
@@ -106,10 +106,16 @@
 ![](pic/057.jpg)
 ![](pic/059.jpg)
 
+- 再來將15個橡膠圈以3個為一組平均分配在5個銅柱上。
+- Distribute the `15 O-rings` in groups of 3 evenly among the 5 spacers.
+
+![](pic/060.jpg)
+![](pic/061.jpg)
+![](pic/062.jpg)
+
 - 接著再將PCB及定位板合併在一起。
 - Next, combine the PCB and the positioning board together.
 
-![](pic/058.jpg)
 ![](pic/027.jpg)
 
 - 從背面加上墊片後，再繼續鎖上螺絲固定。
@@ -125,3 +131,84 @@
 ![](pic/031.jpg)
 
 ## 四、外殼組裝（Install Case）
+
+- 這裡的照片是舊的，不過不會影響安裝；首先將所有定製的壓克力外框上頭的保護紙撕除。
+- Here's an old photo, but it won't affect the installation; first remove the protective paper from the top of all arcylic cases.
+
+![](pic/058.jpg)
+
+- 首先我們從第一層開始安裝，這邊準備好`M2x4mm`、`M2x5mm`螺絲；`M2x3mm`、`M2x12mm`、`M2x18mm`銅柱。
+- First we start on the first plate, prepare `M2x4mm`, `M2x4mm` screws; `M2x3mm`, `M2x12mm`, `M2x18mm` spacers. 
+
+![](pic/032.jpg)
+
+- M2x18mm銅柱、M2x5mm螺絲。
+- M2x18mm spacers, M2x5mm screws.
+
+![](pic/033.jpg)
+
+- M2x12mm銅柱、M2x5mm螺絲。
+- M2x12mm spacers, M2x5mm screws.
+
+![](pic/034.jpg)
+
+- M2x3mm銅柱、M2x4mm螺絲。
+- M2x3mm spacers, M2x4mm screws.
+
+![](pic/035.jpg)
+
+- 接著依序將第二層、三層堆疊上去。
+- Next put the second, third plate stacking together.
+
+![](pic/036.jpg)
+![](pic/037.jpg)
+
+- 再來將PCB及定位板用`M2x3mm`螺絲固定上去。
+- Then fix the PCB and plate with `M2x3mm` screws.
+
+![](pic/038.jpg)
+![](pic/039.jpg)
+
+- PCB固定好之後，再將第四、五層疊上去。
+- After fixing the PCB and plate, then put stacking the 4th plate.
+
+![](pic/040.jpg)
+
+- 接著將第六層底板拿出來，使用M2x5mm螺絲，在照片上的位置安裝M2x5mm銅柱
+- Next you need to use M2x5mm screws, install M2x5mm spacers like the picture below.
+
+![](pic/042.jpg)
+
+- 再來將第六層堆疊上去，用M2x5mm螺絲將外殼固定好。
+- Then stacking the 6th plate, and use M2x5mm screws to lock the case.
+
+![](pic/043.jpg)
+![](pic/044.jpg)
+![](pic/045.jpg)
+
+- 接著將第七、八層、M2x5mm螺絲、M2x5mm銅柱拿出來，依照照片上的位置安裝。
+- Then you need to install M2x5mm screws and spacers on the 7th/8th plate, like picture.
+
+![](pic/046.jpg)
+
+- 最後將左右邊的腳放在鍵盤上，用M2x5mm、M2x3mm螺絲固定好。
+- Last step, putting the 7th/8th plate on left and right side, then use M2x5mm, M2x3mm screws screw the case.
+
+![](pic/047.jpg)
+![](pic/048.jpg)
+![](pic/049.jpg)
+![](pic/050.jpg)
+![](pic/051.jpg)
+![](pic/052.jpg)
+
+- 將腳墊安裝上去。
+- Install the rubber feets.
+
+![](pic/053.jpg)
+
+- 這樣就完成了。
+- Done。
+
+![](pic/054.jpg)
+![](pic/055.jpg)
+![](pic/rp0.jpg)
